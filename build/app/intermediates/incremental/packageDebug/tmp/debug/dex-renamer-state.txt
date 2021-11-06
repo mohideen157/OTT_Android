@@ -1,0 +1,4 @@
+#Tue Jan 05 12:51:12 IST 2021
+base.0=E\:\\AegleorbsTechnologies\\OTT\\Android\\Netflix_like_app_flutter-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
